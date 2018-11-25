@@ -1,0 +1,103 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.full_container{
+	width: 1080px;
+	margin: 10px auto;
+	padding: 10px 0px 10px 0px;
+	background-color: #ddd;
+}
+.Registration_wraper{
+	width: 500px;
+	margin: 0px auto;
+	padding: 10px;
+	background-color: #7575a3;
+}
+.registration_form{}
+.form_title{
+	background-color: #006666;
+	padding: 5px;
+	margin-bottom: 15px;
+}
+.form_title h3{
+	color: #fff;
+	text-align: center;
+	font-size: 20px;
+}
+.form_content{}
+
+.content_area{
+	width: 400px;
+	margin: 0px auto;
+	margin-bottom: 8px;
+	margin-top: 8px;
+	background-color: #e6e6e6;
+	
+}
+.content_area input{
+	width: 350px;
+	margin-right: 10px;
+	background-color: #e6e6e6;
+	border: 0px;
+}
+.content_area input[placeholder]{
+	font-size: 16px;
+	padding: 6px 5px;
+}
+.content2{
+	width: 400px;
+	margin: 0px auto;
+	margin-top: 15px;
+	margin-bottom: 10px;
+}
+.content2 input{
+	width: 120px;
+	padding: 6px 10px;
+	font-size: 17px;
+	cursor: pointer;
+	background-color: #339966;
+	color: #f2f2f2;
+	border: 1px solid #26734d;
+}
+.content2 input:hover{
+	background-color: #00802b;
+}
+
+#error{
+	color: #fff;
+	margin-left: 50px;
+	font-size: 17px;
+	display: block;
+}
+
+#error1{
+	color: #fff;
+	margin-left: 50px;
+	font-size: 17px;
+	display: block;
+}
+#error2{
+	color: #fff;
+	margin-left: 50px;
+	font-size: 17px;
+	display: block;
+}
+#error3{
+	color: #fff;
+	margin-left: 50px;
+	font-size: 17px;
+	display: block;
+}
+#error4{
+	color: #fff;
+	margin-left: 50px;
+	font-size: 17px;
+	display: block;
+}
+#error5{
+	color: #fff;
+	margin-left: 50px;
+	font-size: 17px;
+	display: block;
+}
